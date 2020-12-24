@@ -1,7 +1,7 @@
 # A Simple Flask-based Web API
 A simple web API implemented using Python3 and the Flask web framework.  
 
-This is a based on the tutorial, [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask).
+This is a based on the tutorial, [Creating Web APIs with Python3 and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask).
 
 # The Books.db Database
 The database table `books` consists of 67 entries for each of the winners of the Hugo Award for best science fiction novel between 1953 and 2014 and consists of four columns: id, author,
